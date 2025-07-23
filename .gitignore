@@ -1,0 +1,14 @@
+# Ignore Python cache and env files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+db/*.db
+logs/*.log
+credentials.json
+service_account_key.json
+.idea/
+.vscode/
+*.DS_Store
